@@ -16,4 +16,5 @@
 
 ## Run
 ```bash
-python3 test_lucifer_updated.py
+cd SilentWatch
+python3 silentwatch.py
